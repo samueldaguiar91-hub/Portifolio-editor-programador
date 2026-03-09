@@ -145,6 +145,7 @@ progress::-webkit-progress-value{
   border-radius:8px;
   margin-bottom:10px;
 }
+
 .trabalho-box:hover{
   transform:translateY(-15px);
   box-shadow:0 15px 30px rgba(0,0,0,0.2);
@@ -246,5 +247,6 @@ footer a{
 .projeto:nth-child(5){animation-delay:1s;}
 
 .projeto:nth-child(6){animation-delay:1.2s;}
+
 
 
