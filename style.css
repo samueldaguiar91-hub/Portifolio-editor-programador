@@ -151,7 +151,7 @@ progress::-webkit-progress-value{
   background:#010101;
   color:#f9f4f4;
 }
-.trabalho-box:hover
+.trabalho-box video-box projeto fade-in:{
   transform:translateY(-5px);
   box-shadow:0 10px 20px rgba(0,0,0,0.3);
 }
@@ -249,3 +249,4 @@ footer a{
 .projeto:nth-child(5){animation-delay:1s;}
 
 .projeto:nth-child(6){animation-delay:1.2s;}
+
