@@ -151,6 +151,10 @@ progress::-webkit-progress-value{
   background:#010101;
   color:#f9f4f4;
 }
+.trabalho-box:hover
+  transform:translateY(-5px);
+  box-shadow:0 10px 20px rgba(0,0,0,0.3);
+}
 /* ===== VIDEO ===== */
 
 .video-box iframe{
@@ -243,4 +247,5 @@ footer a{
 .projeto:nth-child(3){animation-delay:0.6s;}
 .projeto:nth-child(4){animation-delay:0.8s;}
 .projeto:nth-child(5){animation-delay:1s;}
+
 .projeto:nth-child(6){animation-delay:1.2s;}
