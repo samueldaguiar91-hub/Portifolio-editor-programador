@@ -156,11 +156,12 @@ progress::-webkit-progress-value{
 }
 
 .trabalho-box:hover{
-  transform:translateY(-15px);
-  box-shadow:0 15px 30px rgba(0,0,0,0.2);
+  transform:translateY(-5px);
+  box-shadow:0 15px 30px rgba(0,0,0,0.3);
   background:#010101;
   color:#f9f4f4;
 }
+
 
 /* ===== VIDEO ===== */
 
