@@ -165,12 +165,21 @@ progress::-webkit-progress-value{
 
 /* ===== VIDEO ===== */
 
+.video-box{
+  background:#ffffff;
+  padding:20px;
+  border-radius:12px;
+  box-shadow:0 5px 15px rgba(0,0,0,0.1);
+  transition:0.3s;
+}
+
+.video-box:hover{
+  transform:translateY(-5px);
+  box-shadow:0 15px 30px rgba(0,0,0,0.3);
+}
+
 .video-box iframe{
-  width:100%;
-  height:220px;
-  border-radius:8px;
-  border:none;
-  margin-bottom:10px;
+  pointer-events:none;
 }
 
 /* ===== FOOTER ===== */
